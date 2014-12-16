@@ -22,7 +22,7 @@ module Shiplogs
         case title
         when "List of Officers"
           :officers
-        when /\d{2} \w+ \d{4}/
+        when /\d{1,2} \w+ \d{4}/
           :log_page
         else
           :unknown

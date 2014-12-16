@@ -18,6 +18,8 @@ class ShiplogsParserPageTest < MiniTest::Unit::TestCase
   end
   
   def test_should_be_log_page_type
-    assert_equal :log_page, @log_page.type
+    ['12 March 1887', '4 December 1879'].each do |date|
+      assert_equal :log_page, Shiplogs::Parser::Page.new(date).type, "#{date} did not eval as a log_page type"
+    end
   end
 end
