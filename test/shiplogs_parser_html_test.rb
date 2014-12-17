@@ -20,7 +20,7 @@ class ShiplogsParserHtmlTest < MiniTest::Unit::TestCase
   end
   
   def test_should_find_pages
-    assert_equal 259, @log.pages.count
+    assert_equal 254, @log.pages.count
   end  
   
   def test_should_pull_out_page_title

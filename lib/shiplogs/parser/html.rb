@@ -18,10 +18,10 @@ module Shiplogs
       def pages
         if @pages.nil?
           @pages = []
-        
+          previous_node = nil
           current_page = nil
           content.css('p').each do |node|
-            if node[:class] == 'center'
+            if node[:class] == 'center' and previous_node[:class] != 'center'
               #found title item
               unless current_page.nil?
                 @pages << current_page 
@@ -29,9 +29,9 @@ module Shiplogs
               
               current_page = Page.new(title_content(node))
             elsif !current_page.nil? and !node.nil?
-              current_page
               current_page.add_content page_content(node)
             end
+            previous_node = node
           end
         end
         
@@ -39,11 +39,11 @@ module Shiplogs
       end
       
       def title_content(node)
-        node.content.gsub("\n", " ")
+        node.content.gsub("\n", " ").strip
       end
       
       def page_content(node)
-        node.content.gsub("\n", " ")
+        node.content.gsub("\n", " ").strip + "\n"
       end
     end
   end

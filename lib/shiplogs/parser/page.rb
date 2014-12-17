@@ -13,7 +13,7 @@ module Shiplogs
       end
       
       def add_content(item)
-        @content << item unless item.nil? or item == ' '
+        @content << item
       end
       
       protected
