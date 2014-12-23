@@ -21,13 +21,18 @@ module Shiplogs
           previous_node = nil
           current_page = nil
           content.css('p').each do |node|
-            if node[:class] == 'center' and previous_node[:class] != 'center'
-              #found title item
-              unless current_page.nil?
-                @pages << current_page 
+            next if node.nil?
+            if title_node?(node)
+              if title_node?(previous_node)
+                #found second title for current page
+                current_page.title += " - #{title_content(node)}"
+              else
+                #found new page
+                unless current_page.nil?
+                  @pages << current_page 
+                end
+                current_page = Page.new(title_content(node))
               end
-              
-              current_page = Page.new(title_content(node))
             elsif !current_page.nil? and !node.nil?
               current_page.add_content page_content(node)
             end
@@ -36,6 +41,11 @@ module Shiplogs
         end
         
         @pages
+      end
+      
+      def title_node?(node)
+        return false if node.nil?
+        node[:class] == 'center' and title_content(node).length > 0
       end
       
       def title_content(node)
