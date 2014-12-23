@@ -19,9 +19,11 @@ module Shiplogs
       protected
       
       def page_type_from_title
-        case title
-        when "List of Officers"
-          :officers
+        case title.downcase
+        when /^list of officers/
+          :crew
+        when /^list of stores/
+          :manifest
         when /\d{1,2} \w+ \d{4}/
           :log_page
         else
