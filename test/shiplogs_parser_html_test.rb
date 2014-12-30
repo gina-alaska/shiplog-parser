@@ -20,7 +20,7 @@ class ShiplogsParserHtmlTest < MiniTest::Unit::TestCase
   end
   
   def test_should_find_pages
-    assert_equal 229, @log.pages.count
+    assert_equal 227, @log.pages.count
   end  
   
   def test_should_pull_out_page_title
@@ -33,5 +33,11 @@ class ShiplogsParserHtmlTest < MiniTest::Unit::TestCase
   
   def test_fourth_page_should_be_log_page
     assert_equal :log_page, @log.pages[3].type
+  end
+  
+  def test_duplicate_page_titles
+    url = File.expand_path('../fixtures/USRC_Bear-1890-1891.htm', __FILE__)
+    log = Shiplogs::Parser::Html.new(url)
+    assert log.pages[4].title != log.pages[5].title, "Found pages with duplicate titles"
   end
 end
