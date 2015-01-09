@@ -52,4 +52,10 @@ class ShiplogsParserHtmlTest < MiniTest::Unit::TestCase
     log = Shiplogs::Parser::Html.new(url)
     assert_equal :log_page, log.pages[2].type
   end
+
+  def test_title_content_should_strip_special_characters
+    html = Shiplogs::Parser::Html.new('')
+    node = OpenStruct.new(content: "14\r May\n 1900\n" )
+    assert_equal "14 May 1900", html.send(:title_content, node), "Found special character"
+  end
 end
