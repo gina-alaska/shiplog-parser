@@ -41,9 +41,15 @@ class ShiplogsParserHtmlTest < MiniTest::Unit::TestCase
     assert log.pages[4].title != log.pages[5].title, "Found pages with duplicate titles"
   end
 
-  def test_alternate_log_page_format
+  def test_alternate_log_format
     url = File.expand_path("../fixtures/OWShips-WW1-18-HMS_Acacia.htm", __FILE__)
     log = Shiplogs::Parser::Html.new(url)
     assert log.pages.count > 0, "Did not find any pages in alternate log format"
+  end
+
+  def test_alternate_log_format_page_type
+    url = File.expand_path("../fixtures/OWShips-WW1-18-HMS_Acacia.htm", __FILE__)
+    log = Shiplogs::Parser::Html.new(url)
+    assert_equal :log_page, log.pages[2].type
   end
 end

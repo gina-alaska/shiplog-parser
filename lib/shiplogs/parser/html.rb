@@ -3,6 +3,9 @@ module Shiplogs
     class Html
       attr_accessor :url
 
+      INVALID_TITLE_CHARACTERS = /[\r\n]+/
+      CONVERT_TO_SPACE_CHARACTERS = /[\n\s]+/
+
       def initialize(url)
         @url = url
         @pages = []
@@ -69,11 +72,11 @@ module Shiplogs
       end
 
       def title_content(node)
-        node.content.gsub("\n", " ").strip
+        node.content.gsub(CONVERT_TO_SPACE_CHARACTERS, ' ').gsub(INVALID_TITLE_CHARACTERS, '').strip
       end
 
       def page_content(node)
-        node.content.gsub("\n", " ").strip + "\n"
+        node.content.gsub(CONVERT_TO_SPACE_CHARACTERS, ' ').strip + "\n"
       end
     end
   end
