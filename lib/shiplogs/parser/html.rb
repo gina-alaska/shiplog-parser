@@ -9,6 +9,7 @@ module Shiplogs
       def initialize(url)
         @url = url
         @pages = []
+        @content = nil
         @content_containers = ['div#content', 'td#logs']
       end
 

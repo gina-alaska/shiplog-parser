@@ -3,6 +3,7 @@ require "nokogiri"
 require "shiplogs/parser/version"
 require "shiplogs/parser/html"
 require "shiplogs/parser/page"
+require "shiplogs/parser/old_weather"
 
 module Shiplogs
   module Parser

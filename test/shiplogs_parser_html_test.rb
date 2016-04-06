@@ -1,7 +1,7 @@
 # encoding: utf-8
 require 'test_helper'
 
-class ShiplogsParserHtmlTest < MiniTest::Unit::TestCase
+class ShiplogsParserHtmlTest < MiniTest::Test
   def setup
     @url = File.expand_path('../fixtures/USS_Bear_1884_log.html', __FILE__)
     @log = Shiplogs::Parser::Html.new(@url)
