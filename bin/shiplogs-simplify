@@ -20,6 +20,12 @@ if opts.help?
   exit
 end
 
+if opts.arguments.empty?
+  puts opts 
+  puts "Please specify a file to simplify"
+  exit -1
+end
+
 filename = opts.arguments.first
 log =  Shiplogs::Parser::OldWeather.new(filename)
 puts log.simplify.to_json
