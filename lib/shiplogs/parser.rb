@@ -1,5 +1,11 @@
 require 'open-uri'
 require "nokogiri"
+require 'json'
+require "shiplogs/old_weather/data_fields"
+require "shiplogs/old_weather/weather"
+require "shiplogs/old_weather/page"
+require "shiplogs/old_weather/annotation"
+require "shiplogs/old_weather/transcription"
 require "shiplogs/parser/version"
 require "shiplogs/parser/html"
 require "shiplogs/parser/page"

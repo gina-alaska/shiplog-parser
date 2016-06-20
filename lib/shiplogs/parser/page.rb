@@ -4,7 +4,7 @@ module Shiplogs
       attr_accessor :title, :content
 
       def initialize(title, content = [])
-        @title = title
+        @title = title || ''
         @content = content
       end
 
@@ -24,6 +24,8 @@ module Shiplogs
           :crew
         when /^list of stores/
           :manifest
+        when /\d{2}\/\d{2}\/\d{4}/
+          :log_page
         when /\d{1,2}\s+\w+\s+\d{4}/
           :log_page
         else
