@@ -3,7 +3,7 @@ module Shiplogs
     class Transcription
       include DataFields
 
-      attr_accessor :attributes, :annotations
+      attr_accessor :attributes
 
       def initialize(data=[])
         @attributes = data

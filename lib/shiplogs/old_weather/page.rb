@@ -2,7 +2,7 @@ module Shiplogs
   module OldWeather
     class Page
       include DataFields
-      attr_accessor :title, :attributes, :content
+      attr_accessor :attributes, :content
 
       def initialize(data)
         @attributes = data
@@ -33,7 +33,7 @@ module Shiplogs
         if self.CDate && self.CDate != 'null'
           Date.strptime(self.CDate['data']['date'], '%d/%m/%Y')
         end
-      rescue ArgumentError => e
+      rescue ArgumentError
       end
 
       def weather

@@ -1,6 +1,13 @@
 {
   "pages": [
     {
+      "id": "50874d7409d4090755002fa9",
+      "date": "12/05/1897",
+      "content": [
+        "At sea, making passage from Seattle, Wash. to Unalaska"
+      ]
+    },
+    {
       "id": "50874d7509d4090755002fcd",
       "date": "21/05/1897",
       "content": [
@@ -74,7 +81,9 @@
         "Drift ice passing vessel",
         "At 3.15 the ice became packed too hard to get through - turned and headed for village on St. lawrence Id.",
         "Sent carpenter and one man ashore with four days rations to build bay window in school house.",
-        "heavy drift ice"
+        "heavy drift ice",
+        "Sick reoprt: Inflammation in Captain's finger continued and required treatment daily",
+        "Sick Report:- Inflamation in Captain's finger continues & requires treatment daily. Prescibed for F. Shibota and B.Honda and eleven (11) natives on shore. Rendered medical services to Mr. Gamble's family."
       ]
     },
     {
@@ -112,7 +121,9 @@
         "Heavy ice drifting with tide.",
         "Steering various courses through ice.",
         "Standing off shore to N'd and W'd through heavy field ice and swift current at various speeds.",
-        "In lowering 2nd cutter the after eye bolt pulled out, carrying away for'd bolt and thwart and dropping boat in water. M. Helbert, cox., was injured during the accident, he being in the boat. Hoisted 2nd cutter in on deck. Lieut. Jarvis boarded the \"Navarch\". Captain Whiteside of the \"Navarch\" visited Comdg. Officer."
+        "In lowering 2nd cutter the after eye bolt pulled out, carrying away for'd bolt and thwart and dropping boat in water. M. Helbert, cox., was injured during the accident, he being in the boat. Hoisted 2nd cutter in on deck. Lieut. Jarvis boarded the \"Navarch\". Captain Whiteside of the \"Navarch\" visited Comdg. Officer.",
+        "Sick report: discontinued treatment of Capatin's finger",
+        "Sick report: Discontinued treatment of Captain's finger. Treating Lieut. Hooker's tongue. Prescribed for 5 natives ashore and Y. Sakata aboard. M. Helbert, coxs. off duty on account of injury received."
       ]
     },
     {
@@ -138,7 +149,22 @@
         "Last two hours large ice cakes passing with tide and current",
         "Thick drift ice running with swift current to N'd",
         "At 8:35 owing to strong current and heavy ice running, got underway and stood around spit, anchoring at 9:10 on north side of village",
-        "Carpenter and J. Lomdstrom, OS, returned on board, having finished work on school house."
+        "Carpenter and J. Lomdstrom, OS, returned on board, having finished work on school house.",
+        "Sick Report:- M. Helbert, cox. improving - Prescribed for four natives ashore."
+      ]
+    },
+    {
+      "id": "50874d7509d4090755003041",
+      "date": "19/06/1897",
+      "content": [
+        "Ice drifting with tide",
+        "Ice drifting",
+        "8.45 Ice coming in",
+        "4 to 8 AM No ice in sight until last half hour.",
+        "845 Ice coming in, up anchor and stood to S'd. Anchored on south side of spit in 7 1/2 fms. water.",
+        "Sea smooth. Ice drifting with tide",
+        "Swift current setting to N'd",
+        "Sick Report:- Prescribed for three natives. One of M. Helbert's legs out of danger, the other improving slowly."
       ]
     },
     {
@@ -148,7 +174,8 @@
         "Thin drift ice with S'ly current ",
         "Ice drifting",
         "3:55 clear of ice",
-        "Passing scattering ice"
+        "Passing scattering ice",
+        "Sick Report:- M.Helbert off duty on account of injury."
       ]
     },
     {
@@ -158,14 +185,23 @@
         "Ice drifting with tide",
         "Standing around ice field to E'd of Indain Point",
         "stearing various courses around ice field",
-        "4.50 Rounded East end of ice field"
+        "4.50 Rounded East end of ice field",
+        "Sick Report:- M.Helbert still off duty. Prescribed for 7 natives."
+      ]
+    },
+    {
+      "id": "50874d7509d409075500304d",
+      "date": "22/06/1897",
+      "content": [
+        "Sick Report:- M.Helbert sick and off duty. Prescribed for 5 natives."
       ]
     },
     {
       "id": "50874d7509d4090755003051",
       "date": "23/06/1897",
       "content": [
-        "Received on board from King's Island one (1) native for transportation to Port Clarence."
+        "Received on board from King's Island one (1) native for transportation to Port Clarence.",
+        "Sick Report:- M.Helbert sick and off duty. Prescribed for 13 natives on shore and H. Wilson on board."
       ]
     },
     {
@@ -178,7 +214,8 @@
         "Working through ice during remainder of watch.",
         "At 5.10 dropped anchor in 6 1/4 fms water, 20 fms port chain off Teller Reindeer station, Port Clarence. Lowered dinghy and sent mail ashore. Capt. Tilton of stmr. \"Alexander\" visited Comd'g Officer.",
         "At 6.35 underway slow speed. 6.40 Full speed. Remainder of watch working to Wd out of harbor through thin drift ice. At 8.00 sand spit, Point Spencer abeam. Co W 3/4 S. Left Carpenter on Stmr. \"Alexander\" to assist in fitting new topmast on that vessel.",
-        "10.30 Stopped off Cape York to speak whaler \"Thrasher\", whose master came on board."
+        "10.30 Stopped off Cape York to speak whaler \"Thrasher\", whose master came on board.",
+        "Sick Report:- M. Helbert returned to duty. Prescribed for E. Crowley and removed body from J. Burn's eye."
       ]
     },
     {
@@ -193,7 +230,8 @@
         "Passed scattering ice first hour.",
         "4 to 6 pm.  Clear, hazy along horizon.  Light to gentle breeze from SE x E to SE.",
         "At 6.35 heading into scattering ice.",
-        "8 pm to mid.  Clear and pleasant weather.  Calm.  At 9.20 stopped off Point Spencer.  11.25 anchored off Teller Reindeer Station, Port Clarence."
+        "8 pm to mid.  Clear and pleasant weather.  Calm.  At 9.20 stopped off Point Spencer.  11.25 anchored off Teller Reindeer Station, Port Clarence.",
+        "Sick Report:- Rendered mediacl services to Mr Lopp's family at Cape prince of Whales. Went aboard \"Thrasher\" at Port Clarence and prescribed for two men - also treated one (1) native ashore."
       ]
     },
     {
@@ -223,11 +261,27 @@
       ]
     },
     {
+      "id": "50874d7509d4090755003071",
+      "date": "01/07/1897",
+      "content": [
+        "Sick Report:- Visited the stmr. \"Portland\" and prescribed for Taylor and T. Eurvertis, also for Mrs. Walker on shore & operated on a native's hand. Extracted a tooth for Mrs. Clarence Berry on board the \"Wearl\""
+      ]
+    },
+    {
+      "id": "50874d7509d4090755003075",
+      "date": "02/07/1897",
+      "content": [
+        "Sick report:- Prescribed for John Anderson and Mrs. Strickland on the \"Portland\""
+      ]
+    },
+    {
       "id": "50874d7509d4090755003079",
       "date": "03/07/1897",
       "content": [
         "Mr. Englastadt and Miss Frederick came on board for transportation to Unalaklik.",
-        "11.10 Anchored in 4 3/4 fms water off Unalaklik, A.T, 25 fms port chain. Lowered cutter and officer and surgeon went ashore with Mr. Englestadt and Miss Frederick."
+        "11.10 Anchored in 4 3/4 fms water off Unalaklik, A.T, 25 fms port chain. Lowered cutter and officer and surgeon went ashore with Mr. Englestadt and Miss Frederick.",
+        "Operated on native's hand dressed, incised wound of carpenter's foot and nail woind of workman",
+        "Sick Report:- Rendered medical and surgical treatment on shore as follows: operated on native's hand, dressed incised wound of carpenter's foot and nail wound of workman."
       ]
     },
     {
@@ -255,7 +309,8 @@
       "id": "50874d7509d4090755003089",
       "date": "07/07/1897",
       "content": [
-        "Boarded and examined:- Am. Stmr. \"Navarch\", New Bedford, Whireside, Unalaska, whaling. Am. Schr. \"Boscarga\" San Francisco, Smith, S.F, whaling. Am. Stmr. \"Bellvedere\", New Bedfors, Willard, S.F., whaling. Am. Stmr. \"Beluga\", San Francisco, Bodfish, S.F., whaling."
+        "Boarded and examined:- Am. Stmr. \"Navarch\", New Bedford, Whireside, Unalaska, whaling. Am. Schr. \"Boscarga\" San Francisco, Smith, S.F, whaling. Am. Stmr. \"Bellvedere\", New Bedfors, Willard, S.F., whaling. Am. Stmr. \"Beluga\", San Francisco, Bodfish, S.F., whaling.",
+        "Sick Report:- Rendered medical services to Edward Kimmon and Mr. Walker on board \"Orca\". Prescribed for natives. All well on board."
       ]
     },
     {
@@ -265,7 +320,8 @@
         "At 10.50 sent officer and Surgeon aboard Stmr. \"Wm. Bayliss\" to render assistance, she having hoisted colors at half mast. Surgein treated mate Leary who attempted suicide.",
         "Surgeon rendered medical assistance to two men from \"Navarch\"",
         "Surgeon attended sick on Stmr. \"Jeannette\".",
-        "10.30 anchored off Reindeer Station, Port Clarence, in 4 1/2 fms water, 25 fms port chain. Comd'g Office and Surgeon visited station. Landed Lap who was received on board for transportation to St. Michaels."
+        "10.30 anchored off Reindeer Station, Port Clarence, in 4 1/2 fms water, 25 fms port chain. Comd'g Office and Surgeon visited station. Landed Lap who was received on board for transportation to St. Michaels.",
+        "Sick Report:- Rendered medical services to the following - \"Belvedere\" John Knife, Lewis Maloney, John Cummings, Capt. Millard - \"Jeannette\" Capt. \"Newth\" - \"Navarch\" - Rudolph Prass and J. Pryen. Supplied \"Beluga\" with medicine needed. All well on board."
       ]
     },
     {
@@ -275,7 +331,15 @@
         "At 6.00 sent 1st and 2nd cutters ashore and brought off arms and ammunition as per list from station for transportation to reindeer station at Metchigrue Bay, Siberia. At 8.00 up anchor, ahead full speed, Co S 1/2 E",
         "9.55 Anchored off Pt. Spencer",
         "Surgeon attending sick on \"Belvedere\" and \"Beluga\".",
-        "Boarded and examined:- Am. Stmr. \"Jeannette\", San Francisco, Newth, San Francisco, whaling voyage. Sent mail to Schr. \"Sailor Boy\" and made preparation for getting underway."
+        "Boarded and examined:- Am. Stmr. \"Jeannette\", San Francisco, Newth, San Francisco, whaling voyage. Sent mail to Schr. \"Sailor Boy\" and made preparation for getting underway.",
+        "Sick report:- Treated two natives & John Dwart of east Cape. Supplied Capt. Cogan with medicine needed."
+      ]
+    },
+    {
+      "id": "50874d7509d4090755003099",
+      "date": "11/07/1897",
+      "content": [
+        "Sick report:- Prescribed for Lieut. Cochrane."
       ]
     },
     {
@@ -284,14 +348,30 @@
       "content": [
         "Various courses to W'd thro' drift ice until 10:45",
         "through drift ice first half",
-        "At 12.35 schr. \"Bonanza\" dropped anchor near by and Capt. Smith came aboard. At 4.00 cutter returned with officer. Drilled 2nd Gun Division."
+        "At 12.35 schr. \"Bonanza\" dropped anchor near by and Capt. Smith came aboard. At 4.00 cutter returned with officer. Drilled 2nd Gun Division.",
+        "Sick Report :- Prescribed for Fred Crowell."
       ]
     },
     {
       "id": "50874d7509d40907550030a1",
       "date": "13/07/1897",
       "content": [
-        "Natives and Government school teacher came on board. Surgeon attended sick on shore."
+        "Natives and Government school teacher came on board. Surgeon attended sick on shore.",
+        "Sick Report:- Prescribed for two natives."
+      ]
+    },
+    {
+      "id": "50874d7609d40907550030a5",
+      "date": "14/07/1897",
+      "content": [
+        "Sick Report:- Prescribed for five natives."
+      ]
+    },
+    {
+      "id": "50874d7609d40907550030a9",
+      "date": "15/07/1897",
+      "content": [
+        "Sick Report:- Frank Smith of the \"J.D. Peters\" received surgical treatment."
       ]
     },
     {
@@ -300,14 +380,16 @@
       "content": [
         "Dr. Kittelson, Asst. Keeper Port Clarence Reindeer Station came on board from Stmr. \"Beluga\" for passage to Reindeer Station.",
         "1.35 Stmr. \"Alexander\" passed astern, sent mail aboard and stood towards Pt. Spencer. Crew rove off new fore lifts, put chafing gear on peak halliards to fore try-sail gaff and otherwise variously employed. At 3.00 drilled small arm Division.",
-        "At 7.15 sighted schr. \"Rosario\" heading into anchorage off Point Spenser."
+        "At 7.15 sighted schr. \"Rosario\" heading into anchorage off Point Spenser.",
+        "Sick report:- Prescribed for J.T. Goyett, o.sea."
       ]
     },
     {
       "id": "50874d7609d40907550030b1",
       "date": "17/07/1897",
       "content": [
-        "Boarded:- Am. Schr. \"Rosario\", S.F., E. Coffin, San Francisco - whaling and trading voyage."
+        "Boarded:- Am. Schr. \"Rosario\", S.F., E. Coffin, San Francisco - whaling and trading voyage.",
+        "Sick Report:- J. Goyett sick and off duty."
       ]
     },
     {
@@ -385,7 +467,8 @@
       "date": "26/07/1897",
       "content": [
         "List of arms and ammunition landed at Reindeer Station, St. Lawrence Bay, Siberia. (Marked U.S. Cutter \"Bear\". Port Townsend & received at Seattle)",
-        "15 boxes (2000) cartridges 44 cal. 30 boxes (1000) cartridges 45-70 10 boxes (1000) cartridges 45-60 1 box (25 sets) reloading tools 2 boxes (not marked) 6 boxes carbines 4 boxes rifles Marked Reindeer trade. Rec'd on board at Port Clarence. 5 boxes (2000) cartridges (44 cal.) 3 boxes (2000) cartridges (38 cal.) 3 boxes (1000) cartridges (45-70) 4 boxes (1000) cartridges (40-65) 1 box (1000) cartridges (45-75) 3 boxes reloading tools 6 boxes carbines 1 box rifles - Winchester 1 box shot 1 box various articles 2 boxes blank cartridges (1 - metallic shells) 1 box Hotchkiss rifles."
+        "15 boxes (2000) cartridges 44 cal. 30 boxes (1000) cartridges 45-70 10 boxes (1000) cartridges 45-60 1 box (25 sets) reloading tools 2 boxes (not marked) 6 boxes carbines 4 boxes rifles Marked Reindeer trade. Rec'd on board at Port Clarence. 5 boxes (2000) cartridges (44 cal.) 3 boxes (2000) cartridges (38 cal.) 3 boxes (1000) cartridges (45-70) 4 boxes (1000) cartridges (40-65) 1 box (1000) cartridges (45-75) 3 boxes reloading tools 6 boxes carbines 1 box rifles - Winchester 1 box shot 1 box various articles 2 boxes blank cartridges (1 - metallic shells) 1 box Hotchkiss rifles.",
+        "Sick Report:- Prescribed for two natives."
       ]
     },
     {
@@ -419,14 +502,16 @@
       "date": "28/07/1897",
       "content": [
         "steaming various courses through heavy drift ice",
-        "At 4:30 clear of ice"
+        "At 4:30 clear of ice",
+        "Sick Report:- J.J. Dixon, C.P, sick and off duty."
       ]
     },
     {
       "id": "50874d7609d40907550030e5",
       "date": "29/07/1897",
       "content": [
-        "At 7.00 lowered steam launch & 2nd cutter and a party of three officers and four men in charge of Lieut. Jarvis left the ship on an exploring trip up Eschscholtz Bay."
+        "At 7.00 lowered steam launch & 2nd cutter and a party of three officers and four men in charge of Lieut. Jarvis left the ship on an exploring trip up Eschscholtz Bay.",
+        "Sick Report:- J.J. Dixon placed on duty."
       ]
     },
     {
@@ -607,7 +692,8 @@
         "Keeping sharp look out over ice pack for Stmr \"Navarch\"",
         "Ice drifting to N'd with current. \"Navarch\" in sight driftingto N'd in ice.",
         "10.45 Made \"Navarch\" in ice brg W 3/4 S. 11.00 Stopped and lowered umiak. Relief party left the ship to cross the ice pack. Furnished relief party with 20# canned corn beef and 1 bag bread. Loaned them megaphone & boat compass. Turned and stood to Sd & Ed at slow speed.",
-        "11.45 Relief party returned to ship having been unable to reach \"Navarch\", owing to strong current."
+        "11.45 Relief party returned to ship having been unable to reach \"Navarch\", owing to strong current.",
+        "Sick Report:- Prescribed for F. Crowley & J. Dixon; also two natives."
       ]
     },
     {
@@ -630,7 +716,8 @@
         "At 7.10 up anchor, and headed North full speed towards \"Navarch\"",
         "10.35 Anchored off Pt. Barrow in 4 1/4 fms. water, 15 fms. port chain. Officer and Surgeon visited shore to gather information concerning village and natives.",
         "Overhauled steering compass for Schr. \"Bonanza\".",
-        "Loaned one (1) chronometer to Capt. Smith of Schr. \"Bonanza\" - his chronometer having a broken main spring."
+        "Loaned one (1) chronometer to Capt. Smith of Schr. \"Bonanza\" - his chronometer having a broken main spring.",
+        "Sick Report:- Prescribed for Saunders of \"Wm. Bayliss\""
       ]
     },
     {
@@ -642,7 +729,8 @@
         "At 12.45 Stmr. \"Navarch\" bore NxE, having no flags set as on previous days and main royal flying. Pt. Barrow SWxS. Drifting through ice during entire watch, working engines to bell at various speeds and heading from NE to South. At 2.00 fog settled down and closed in on \"Navarch\"",
         "Drifting through ice",
         "\"Navarch\" obscured by fog. Natives from Colville River on board.",
-        "Keeping lookout for \"Navarch\" or her crew."
+        "Keeping lookout for \"Navarch\" or her crew.",
+        "Sick Report:- Prescribed for Wm. Douglas, J. Crowel and one native."
       ]
     },
     {
@@ -675,7 +763,8 @@
         "At 2.25 stood to Ed, steaming various courses through ice at various speeds in search of remainder of crew of \"Navarch\".",
         "* Captain and Mrs. J. Whitesides, J. Belaine - mate, J. Peters - boat header, A.P. read - 4th mate, J. Santos, boat steere, J. Scott & T. Lachars, seamen.",
         "At 4.10 stopped and sent mate J. Belaine and A.P. Read 4th of Navarch's crew (at their request) aboard the \"Rosario\".",
-        "4.20 Dropped anchor in 4 1/2 fms. water 20 fms. port chain off Cooper's Id."
+        "4.20 Dropped anchor in 4 1/2 fms. water 20 fms. port chain off Cooper's Id.",
+        "Sick Report:- Prescribed for A. Jimineo, S. and placed J. Dixon, C.P., on sick list."
       ]
     },
     {
@@ -702,7 +791,8 @@
         "Steering various courses to Wd through drift ice along edge of ice pack on lookout for \"Navarch's\" crew.",
         "steaming to NWd along ice pack",
         "4.25 Rounded Pt. Barrow and stood to Sd. 4.50 Exchanged signals with Bark \"Alice Knowles\" anchored off shooting station and at 5.05 stopped and anchored in 5 fms. water, 25 fms. port chain. received visit from Captain and examined papers of Am. Brk. \"Alice Knowles\", New Bedford, Ogden, Unalaska, whaling voyage.",
-        "At 7.40 relief party from Cape Smythe consisting of F. Hobson in charge, and 7 natives left the vessel."
+        "At 7.40 relief party from Cape Smythe consisting of F. Hobson in charge, and 7 natives left the vessel.",
+        "Sick Report:- J. Dixon returned to duty. Prescribed fot Capt. Tuttle, also Capt. Ogden of the \"Alice Knowles\". Extracted tooth for J. Lundstom, O.S. Visited stations at Cape Smythe."
       ]
     },
     {
@@ -710,7 +800,8 @@
       "date": "20/08/1897",
       "content": [
         "1:30 Passed through scattering drift ice ... 2:54 struck heavy drift ice and stood along edge of it.",
-        "2.54 Struck heavy drift ice and stood along edge of it"
+        "2.54 Struck heavy drift ice and stood along edge of it",
+        "Sick Report:- Prescribed for Mr. Peters."
       ]
     },
     {
@@ -741,7 +832,8 @@
       "id": "50874d7609d4090755003159",
       "date": "26/08/1897",
       "content": [
-        "905 Underway and stood S.E.xS. full speed (16.8)"
+        "905 Underway and stood S.E.xS. full speed (16.8)",
+        "Underway 6-40"
       ]
     },
     {
@@ -963,6 +1055,20 @@
       ]
     },
     {
+      "id": "50874d7809d409075500346d",
+      "date": "21/03/1898",
+      "content": [
+        "Error!!! Comuns for 21st will be found under date of 22nd"
+      ]
+    },
+    {
+      "id": "50874d7809d4090755003471",
+      "date": "22/03/1898",
+      "content": [
+        "Error!!! Comuns for 22nd will be found under date of 21st "
+      ]
+    },
+    {
       "id": "50874d7909d40907550034e1",
       "date": "19/04/1898",
       "content": [
@@ -974,19 +1080,6 @@
       "date": "29/04/1898",
       "content": [
         "3:00 Shishaldin Volcano in eruption, smoke and flames."
-      ]
-    },
-    {
-      "id": "50874d7509d4090755003041",
-      "date": "19/06/1897",
-      "content": [
-        "Ice drifting with tide",
-        "Ice drifting",
-        "8.45 Ice coming in",
-        "4 to 8 AM No ice in sight until last half hour.",
-        "845 Ice coming in, up anchor and stood to S'd. Anchored on south side of spit in 7 1/2 fms. water.",
-        "Sea smooth. Ice drifting with tide",
-        "Swift current setting to N'd"
       ]
     }
   ]

@@ -1,4 +1,3 @@
-require 'bundler/setup'
 require 'version'
 require 'open-uri'
 require "nokogiri"
@@ -9,7 +8,6 @@ require "shiplogs/old_weather/location"
 require "shiplogs/old_weather/page"
 require "shiplogs/old_weather/annotation"
 require "shiplogs/old_weather/transcription"
-require "shiplogs/parser/version"
 require "shiplogs/parser/html"
 require "shiplogs/parser/page"
 require "shiplogs/parser/old_weather"

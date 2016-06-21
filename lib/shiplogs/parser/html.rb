@@ -4,7 +4,7 @@ module Shiplogs
       attr_accessor :url
 
       INVALID_TITLE_CHARACTERS = /[\r\n]+/
-      CONVERT_TO_SPACE_CHARACTERS = /[\n\s]+/
+      CONVERT_TO_SPACE_CHARACTERS = /[\s]+/
 
       def initialize(url)
         @url = url
