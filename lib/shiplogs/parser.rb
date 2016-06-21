@@ -3,6 +3,7 @@ require "nokogiri"
 require 'json'
 require "shiplogs/old_weather/data_fields"
 require "shiplogs/old_weather/weather"
+require "shiplogs/old_weather/location"
 require "shiplogs/old_weather/page"
 require "shiplogs/old_weather/annotation"
 require "shiplogs/old_weather/transcription"

@@ -5,7 +5,7 @@ module Shiplogs
 
       attr_accessor :attributes
 
-      ACCEPTED_EVENT_KEYS = %w{ event undefined portname  }
+      ACCEPTED_EVENT_KEYS = %w{ event undefined  }
 
       def initialize(data=[])
         @attributes = data

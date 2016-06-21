@@ -49,7 +49,12 @@ module Shiplogs
       end
 
       def geolocations
-        transcriptions.geolocations
+        return @geolocations if @geolocations
+
+        @geolocations ||= []
+        @geolocations << Location.new(self.CPosition['data']) if self.CPosition
+
+        @geolocations
       end
 
       def type

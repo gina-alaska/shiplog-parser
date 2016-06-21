@@ -11,7 +11,7 @@ module Shiplogs
       end
 
       def json_content
-        @json_content ||= JSON.parse(File.read(@filename).force_encoding('utf-8'))
+        @json_content ||= JSON.parse(File.read(@filename).encode("UTF-8", "ISO-8859-1"))
       end
 
       def pages
@@ -41,7 +41,7 @@ module Shiplogs
         pages.collect do |p|
           {
             id: p.id,
-            title: p.title,
+            title: p.date,
             voyage_id: p.voyage_id,
             type: p.as_parser_page.type,
             date: p.date,
