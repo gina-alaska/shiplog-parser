@@ -9,7 +9,7 @@ spec = Gem::Specification.new do |spec|
   spec.email         = ["will@alaska.edu"]
   spec.summary       = %q{Basic html parser for shiplogs}
   spec.description   = %q{Basic html parser for shiplogs}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/gina-alaska/shiplog-parser"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
