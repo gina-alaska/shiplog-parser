@@ -1,3 +1,5 @@
+require 'bundler/setup'
+require 'version'
 require 'open-uri'
 require "nokogiri"
 require 'json'
@@ -14,6 +16,7 @@ require "shiplogs/parser/old_weather"
 
 module Shiplogs
   module Parser
+    is_versioned
     # Your code goes here...
     def self.load(url)
       Html.new(url)
